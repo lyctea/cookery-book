@@ -36,7 +36,6 @@ const routes = (
     </Route>
 );
 
-
 //导出模块
 export default class Root extends Component{
     render(){
